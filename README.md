@@ -1,9 +1,9 @@
 <img src="./github_header.png">
 
-## Who am I?
+## Who am I? 🖐🏼
 I'm Sebastián Laya González, and I'm living in Spain. Right now I find myself studying Multiplatform Application Development in IES Puerto de la Cruz, Tenerife and I'm looking up to finish my Higher Vocational Course, which involves lessons over technologies like Java, HTML, Docker and much more. In addition I'm also experimented with videogames creation with tools like Unity3d and Blender (and open to start learning C#).
 
-## Programming habilities
+## Programming habilities 👾
 #### Here are some technologies where I'm experienced
 <div style="display:flex; column-gap:20px">
   <img src="https://hackr.io/tutorials/learn-assembly-language/logo/logo-assembly-language?ver=1762791712" style="height:5vw">
@@ -21,17 +21,5 @@ I'm Sebastián Laya González, and I'm living in Spain. Right now I find myself 
   <img src="" style="height:5vw">
 </div>
 
-## Contact
+## Contact 💬
 #### You can contact me via email in **sebastianlaya01@gmail.com**
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
