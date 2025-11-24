@@ -1,7 +1,13 @@
 <img src="./github_header.png">
 
+<br>
+<br>
+
 ## Who am I? 🖐🏼
 I'm Sebastián Laya González, and I'm living in Spain. Right now I find myself studying Multiplatform Application Development in IES Puerto de la Cruz, Tenerife and I'm looking up to finish my Higher Vocational Course, which involves lessons over technologies like Java, HTML, Docker and much more. In addition I'm also experimented with videogames creation with tools like Unity3d and Blender (and open to start learning C#).
+
+<br>
+<br>
 
 ## Programming habilities 👾
 #### Here are some technologies where I'm experienced
@@ -19,8 +25,10 @@ I'm Sebastián Laya González, and I'm living in Spain. Right now I find myself 
   <img src="https://camo.githubusercontent.com/4ba948744223953ae3754f43c9bc1becfb0f3995b8a0bfca42f3156ca71ea8a8/68747470733a2f2f64697374726561752e636f6d2f6769746875622e737667" style="height:5vw">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartcraft.com%2Fimages%2Funity-logo-black.png&f=1&nofb=1&ipt=e1e98d9ef31395ae63040e361ebbe66019f1f268edc4ad616dddbcaee7c22cb7" style="height:5vw">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F1655928.png&f=1&nofb=1&ipt=2155b5af9a40ce2faf81c2ae4d6369967b3136a934e80aa27f8574a57dd0e54b" style="height:5vw">
-
 </div>
+
+<br>
+<br>
 
 ## Contact 💬
 #### You can contact me via email **sebastianlaya01@gmail.com**
