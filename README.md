@@ -1,5 +1,7 @@
-## Hi there 👋
+<img src="./github.png">
 
+## Who am I?
+I'm Sebastián Laya González, and I'm living in Spain. Right now I find myself studying Java in IES Puerto de la Cruz, Tenerife
 <!--
 **slayaglez/slayaglez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
