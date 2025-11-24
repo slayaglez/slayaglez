@@ -1,4 +1,4 @@
-<img src="./github.png">
+<img src="./github_header.png">
 
 ## Who am I?
 I'm Sebastián Laya González, and I'm living in Spain. Right now I find myself studying Java in IES Puerto de la Cruz, Tenerife and I'm looking up to finish my Higher Vocational Course, which involves lessons over technologies like Java, HTML, Docker and much more. Over that I'm also experimented with videogames creation like Unity3d and Blender.
