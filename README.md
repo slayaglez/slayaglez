@@ -10,7 +10,7 @@ I'm Sebastián Laya González, and I was born in Venezuela but grew up in **Tene
 
 My hobbies are doing **MMA, videogames and Rock'n'Roll**, more specifically, I've practiced Brazilian Jiu-Jitsu and Karate, I'm a big fan of *Fromsoftware* games and I love *Extremoduro* or *Marea*, which are spanish Rock bands. I also love gastronomy, since I've been a waiter for a couple of years and know a lot about high quality wines and meats from different parts of the Mediterranean.
 
-> El valor de un hombre no es más grande que sus ambiciones.
+> Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad.
 > >  -Marco Aurelio
 
 <br>
