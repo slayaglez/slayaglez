@@ -29,11 +29,13 @@ My hobbies are doing **MMA, videogames and Rock'n'Roll**, more specifically, I'v
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2017%2F04%2Fcss-3-logo.png&f=1&nofb=1&ipt=fa4848b9c554bd1c3ececa8c4ac6de1d0d3e071ee144397e392417269a4d4780" style="height:5vw">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" style="height:5vw">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Flinux%2Flinux_PNG21.png&f=1&nofb=1&ipt=410c396198809466e9b133f1035f67436ae597800f340156bae08cc336dfe1cc" style="height:5vw">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdrawdb-io.github.io%2Fdocs%2Fimg%2Flogo.png&f=1&nofb=1&ipt=e447cf545e911bd65d52b92b99bc838d6541a466553d8258ef51f9d2e26cfef2" style="height:4.5vw">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fvim-logo-png.png&f=1&nofb=1&ipt=8de9818cccb85bff0768560287dabb1bf4f90c5ee4f22f30f1a089ad73f2b1c7" style="height:5vw">
   <img src="https://camo.githubusercontent.com/4ba948744223953ae3754f43c9bc1becfb0f3995b8a0bfca42f3156ca71ea8a8/68747470733a2f2f64697374726561752e636f6d2f6769746875622e737667" style="height:5vw">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartcraft.com%2Fimages%2Funity-logo-black.png&f=1&nofb=1&ipt=e1e98d9ef31395ae63040e361ebbe66019f1f268edc4ad616dddbcaee7c22cb7" style="height:5vw">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F1655928.png&f=1&nofb=1&ipt=2155b5af9a40ce2faf81c2ae4d6369967b3136a934e80aa27f8574a57dd0e54b" style="height:5vw">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" style="height:5vw">
+
 </div>
 
 <br>
