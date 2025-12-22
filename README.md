@@ -35,6 +35,7 @@ My hobbies are doing **MMA, videogames and Rock'n'Roll**, more specifically, I'v
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartcraft.com%2Fimages%2Funity-logo-black.png&f=1&nofb=1&ipt=e1e98d9ef31395ae63040e361ebbe66019f1f268edc4ad616dddbcaee7c22cb7" style="height:5vw">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F1655928.png&f=1&nofb=1&ipt=2155b5af9a40ce2faf81c2ae4d6369967b3136a934e80aa27f8574a57dd0e54b" style="height:5vw">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" style="height:5vw">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.stickpng.com%2Fimages%2F5847f981cef1014c0b5e48be.png&f=1&nofb=1&ipt=63aeac36d4928eade341ff0ba926bd262d80b4f8f37a6b09f983e14d10640eee" style="height:5vw">
 
 </div>
 
