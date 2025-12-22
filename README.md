@@ -21,6 +21,7 @@ My hobbies are doing **MMA, videogames and Rock'n'Roll**, more specifically, I'v
 <div style="display:flex; column-gap:20px">
   <img src="https://hackr.io/tutorials/learn-assembly-language/logo/logo-assembly-language?ver=1762791712" style="height:5vw">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1067px-ISO_C%2B%2B_Logo.svg.png" style="height:5vw">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ingenioempresa.com%2Fwp-content%2Fuploads%2F2022%2F09%2FC-Language-1-927x1024.png&f=1&nofb=1&ipt=501ae59512e80ded00d2068e3230b4a2cb4122188cb95d156e8fa82671835bbf" style="height:5vw">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Fvisual-studio-code%2Fvisual-studio-code-4096.png&f=1&nofb=1&ipt=ebdc8764913f59e826600a7567ea447027c2997725955d5de8d663d52695517c" style="height:5vw">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Flogos-and-brands%2F512%2F97_Docker_logo_logos-512.png&f=1&nofb=1&ipt=26e10ad7b422b358f592a202107f6d1786978f52dfc74e8d482161346c27bc59" style="height:5vw">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fpostgresql-logo-png-transparent.png&f=1&nofb=1&ipt=af1b19ac2be7b3811fe02cd7b0f0a33dc37d77b6f25328a0fff8eb5129fd7c18" style="height:5vw">
@@ -31,7 +32,6 @@ My hobbies are doing **MMA, videogames and Rock'n'Roll**, more specifically, I'v
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Flinux%2Flinux_PNG21.png&f=1&nofb=1&ipt=410c396198809466e9b133f1035f67436ae597800f340156bae08cc336dfe1cc" style="height:5vw">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdrawdb-io.github.io%2Fdocs%2Fimg%2Flogo.png&f=1&nofb=1&ipt=e447cf545e911bd65d52b92b99bc838d6541a466553d8258ef51f9d2e26cfef2" style="height:4.5vw">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fvim-logo-png.png&f=1&nofb=1&ipt=8de9818cccb85bff0768560287dabb1bf4f90c5ee4f22f30f1a089ad73f2b1c7" style="height:5vw">
-  <img src="https://camo.githubusercontent.com/4ba948744223953ae3754f43c9bc1becfb0f3995b8a0bfca42f3156ca71ea8a8/68747470733a2f2f64697374726561752e636f6d2f6769746875622e737667" style="height:5vw">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartcraft.com%2Fimages%2Funity-logo-black.png&f=1&nofb=1&ipt=e1e98d9ef31395ae63040e361ebbe66019f1f268edc4ad616dddbcaee7c22cb7" style="height:5vw">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F1655928.png&f=1&nofb=1&ipt=2155b5af9a40ce2faf81c2ae4d6369967b3136a934e80aa27f8574a57dd0e54b" style="height:5vw">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" style="height:5vw">
