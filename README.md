@@ -1,5 +1,9 @@
 <img src="./github_header.png">
 
+<img src="https://img.shields.io/github/followers/slayaglez?style=flat&logoSize=2vh&labelColor=3B3B3B&color=CC0808"> <img src="https://img.shields.io/github/stars/slayaglez?style=flat&logoSize=2vh&labelColor=3B3B3B&color=A82B02">
+
+
+
 <br>
 <br>
 
