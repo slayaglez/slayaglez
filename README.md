@@ -1,25 +1,20 @@
 <img src="./github_header.png">
 
 <img src="https://img.shields.io/github/followers/slayaglez?style=flat&logoSize=2vh&labelColor=3B3B3B&color=CC0808"> <img src="https://img.shields.io/github/stars/slayaglez?style=flat&logoSize=2vh&labelColor=3B3B3B&color=A82B02">
-
-
-
-<br>
-<br>
+<hr>
 
 ## Who am I? 🖐🏼
 I'm Sebastián Laya González, and I was born in Venezuela but grew up in **Tenerife, Canary Islands**. Right now I find myself studying Multiplatform Application Development in **IES Puerto de la Cruz**, Tenerife and I'm looking up to finish my Higher Vocational Course, which involves lessons over technologies like **Java, HTML, Docker, PostgreSQL** and much more. In addition I'm also experimented with videogames creation with tools like Unity3D and Blender (and open to start learning C#).
 
-<br>
-
 ### 🕹 About me 🎮
 My hobbies are doing **MMA, videogames and Rock'n'Roll**, more specifically, I've practiced Brazilian Jiu-Jitsu and Karate, I'm a big fan of *Fromsoftware* games and I love *Extremoduro* or *Marea*, which are spanish Rock bands. I also love gastronomy, since I've been a waiter for a couple of years and know a lot about high quality wines and meats from different parts of the Mediterranean.
+
+<br>
 
 > Tranquilo a la vez que resuelto, alegre a la par que consistente, es el hombre que en todo sigue la razón.
 > >  -Marco Aurelio
 
-<br>
-<br>
+<hr>
 
 ## 👾 Programming habilities 👾
 #### Here are some technologies where I'm experienced
@@ -44,6 +39,8 @@ My hobbies are doing **MMA, videogames and Rock'n'Roll**, more specifically, I'v
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F238266.png&f=1&nofb=1&ipt=02b4287164f6c26b13861f018e86c970e80227bc2e164a38cd28d02d400f72ac" style="height:5vw">
 
 </div>
+<br>
+<hr>
 
 ## 🎯 What I'm looking for 🎯
 Right now I'm looking to expand my knowledge as much as possible with oportunities such as:
@@ -51,8 +48,7 @@ Right now I'm looking to expand my knowledge as much as possible with oportuniti
 - Developer Junior
 - **Interships**
 
-<br>
-<br>
+<hr>
 
 ## Contact 💬
 #### You can contact me via email **sebastianlaya01@gmail.com**
