@@ -49,7 +49,7 @@ My hobbies are **MMA, videogames and Rock'n'Roll**, more specifically, I've prac
 
 ## 💯 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats-tau-rose.vercel.app/api?username=slayaglez&hide=contribs,prs&show_icons=true&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-tau-rose.vercel.app/api?username=slayaglez&hide=contribs,prs&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
