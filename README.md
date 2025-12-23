@@ -37,9 +37,22 @@ My hobbies are doing **MMA, videogames and Rock'n'Roll**, more specifically, I'v
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" style="height:5vw" alt="IntelliJ">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.stickpng.com%2Fimages%2F5847f981cef1014c0b5e48be.png&f=1&nofb=1&ipt=63aeac36d4928eade341ff0ba926bd262d80b4f8f37a6b09f983e14d10640eee" style="height:5vw" alt="Git">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F238266.png&f=1&nofb=1&ipt=02b4287164f6c26b13861f018e86c970e80227bc2e164a38cd28d02d400f72ac" style="height:5vw" alt="Microsoft Office">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Fdebian-logo.png&f=1&nofb=1&ipt=f218380dcc938517ddd1acd6ebf7f02ce3fb2ef59f6e6d9b98bde6eceed487b9" style="height:5vw" alt="Debian">
 
+  <br>
+  <br>
+
+  #### And the languages I know
+  ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 </div>
-<br>
+
 <hr>
 
 ## 🎯 What I'm looking for 🎯
