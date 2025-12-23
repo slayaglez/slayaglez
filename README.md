@@ -12,15 +12,16 @@ I'm Sebastián Laya González, and I was born in Venezuela but grew up in **Tene
 
 <br>
 
+### 🕹 About me 🎮
 My hobbies are doing **MMA, videogames and Rock'n'Roll**, more specifically, I've practiced Brazilian Jiu-Jitsu and Karate, I'm a big fan of *Fromsoftware* games and I love *Extremoduro* or *Marea*, which are spanish Rock bands. I also love gastronomy, since I've been a waiter for a couple of years and know a lot about high quality wines and meats from different parts of the Mediterranean.
 
-> Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad.
+> Tranquilo a la vez que resuelto, alegre a la par que consistente, es el hombre que en todo sigue la razón.
 > >  -Marco Aurelio
 
 <br>
 <br>
 
-## Programming habilities 👾
+## 👾 Programming habilities 👾
 #### Here are some technologies where I'm experienced
 <div style="display:flex; column-gap:20px">
   <img src="https://hackr.io/tutorials/learn-assembly-language/logo/logo-assembly-language?ver=1762791712" style="height:5vw">
@@ -40,8 +41,15 @@ My hobbies are doing **MMA, videogames and Rock'n'Roll**, more specifically, I'v
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F1655928.png&f=1&nofb=1&ipt=2155b5af9a40ce2faf81c2ae4d6369967b3136a934e80aa27f8574a57dd0e54b" style="height:5vw">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" style="height:5vw">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.stickpng.com%2Fimages%2F5847f981cef1014c0b5e48be.png&f=1&nofb=1&ipt=63aeac36d4928eade341ff0ba926bd262d80b4f8f37a6b09f983e14d10640eee" style="height:5vw">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F238266.png&f=1&nofb=1&ipt=02b4287164f6c26b13861f018e86c970e80227bc2e164a38cd28d02d400f72ac" style="height:5vw">
 
 </div>
+
+## 🎯 What I'm looking for 🎯
+Right now I'm looking to expand my knowledge as much as possible with oportunities such as:
+- Buisness proyects
+- Developer Junior
+- **Interships**
 
 <br>
 <br>
