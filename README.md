@@ -7,6 +7,8 @@
 ## 🖐🏼 Who am I?
 I'm Sebastián Laya González, and I was born in Venezuela but grew up in **Tenerife, Canary Islands**. Right now I find myself studying Multiplatform Application Development in **IES Puerto de la Cruz**, Tenerife and I'm looking up to finish my Higher Vocational Course, which involves lessons over technologies like **Java, HTML, Docker, PostgreSQL** and much more. In addition I'm also experimented with videogames creation with tools like Unity3D and Blender (and open to start learning C#).
 
+<br>
+
 ### 🌐 Languages I know
 
   ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
@@ -18,7 +20,9 @@ I'm Sebastián Laya González, and I was born in Venezuela but grew up in **Tene
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### About me 🎮
+<br>
+
+### 🎮 About me 
 My hobbies are **MMA, videogames and Rock'n'Roll**, more specifically, I've practiced Brazilian Jiu-Jitsu and Karate, I'm a big fan of *Fromsoftware* games and I love *Extremoduro* or *Marea*, which are spanish Rock bands. I also love gastronomy, since I've been a waiter for a couple of years and know a lot about high quality wines and meats from different parts of the Mediterranean.
 
 <br>
@@ -26,21 +30,28 @@ My hobbies are **MMA, videogames and Rock'n'Roll**, more specifically, I've prac
 > Tranquilo a la vez que resuelto, alegre a la par que consistente, es el hombre que en todo sigue la razón.
 > >  -Marco Aurelio
 
+<br>
+
+
 <hr>
 
 ## 👾 Programming habilities 
-#### Here are some technologies where I'm experienced
+### Here are some technologies where I'm experienced
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,vscode,js,html,css,postgres,docker,git,github,idea,java,maven,unity,blender,linux,debian,mint,ubuntu,windows,md,vim&perline=11" style="heigth:5vw" />
   </a>
 </p>
 
+<br>
+
 <hr>
 
 ## 💯 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats-tau-rose.vercel.app/api?username=slayaglez&hide=contribs,prs&show_icons=true&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 <hr>
 
@@ -49,6 +60,8 @@ Right now I'm looking to expand my knowledge as much as possible with oportuniti
 - Buisness proyects
 - Developer Junior
 - **Interships**
+
+<br>
 
 <hr>
 
