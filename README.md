@@ -1,6 +1,7 @@
 <img src="./github_header.png">
 
-<img src="https://img.shields.io/github/followers/slayaglez?style=flat&logoSize=2vh&labelColor=3B3B3B&color=CC0808"> <img src="https://img.shields.io/github/stars/slayaglez?style=flat&logoSize=2vh&labelColor=3B3B3B&color=A82B02">
+<img src="https://img.shields.io/github/followers/slayaglez?style=flat&logoSize=2vh&labelColor=3B3B3B&color=CC0808"> <img src="https://img.shields.io/github/stars/slayaglez?style=flat&logoSize=2vh&labelColor=3B3B3B&color=A82B02"> ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=slayaglez.repoName) <img src="https://komarev.com/ghpvc/?username=slayaglez" alt="slayaglez" />
+
 <hr>
 
 ## Who am I? 🖐🏼
@@ -52,6 +53,12 @@ My hobbies are doing **MMA, videogames and Rock'n'Roll**, more specifically, I'v
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 </div>
+
+<hr>
+
+## 💯 GitHub Stats 💯
+
+[![Anurag's GitHub stats](https://github-readme-stats-tau-rose.vercel.app/api?username=slayaglez&hide=contribs,prs&show_icons=true&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
