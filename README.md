@@ -43,6 +43,8 @@ My hobbies are **MMA, videogames and Rock'n'Roll**, more specifically, I've prac
   </a>
 </p>
 
+<p>I'm also experienced on Assembly and QtSpin!</p>
+
 <br>
 
 <hr>
