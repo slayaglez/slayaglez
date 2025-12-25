@@ -39,7 +39,7 @@ My hobbies are **MMA, videogames and Rock'n'Roll**, more specifically, I've prac
 ### Here are some technologies where I'm experienced
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=c,cpp,vscode,js,html,css,postgres,docker,git,github,idea,java,maven,unity,blender,linux,debian,mint,ubuntu,windows,md,vim&perline=11" style="height:20vh" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,vscode,js,html,css,postgres,docker,git,github,autocad,idea,java,maven,unity,blender,discord,linux,debian,mint,ubuntu,windows,md,vim&perline=8" style="height:25vh" />
   </a>
 </p>
 
