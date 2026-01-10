@@ -50,8 +50,22 @@ My hobbies are **MMA, videogames and Rock'n'Roll**, more specifically, I've prac
 <hr>
 
 ## 💯 GitHub Stats
+<div style="display:flex;>
+  <div>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats-tau-rose.vercel.app/api?username=slayaglez&hide=contribs,prs&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+    
+  </div>
+  <div>
+    
+  ![](https://github-readme-stats.vercel.app/api?username=slayaglez&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=slayaglez&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=slayaglez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+    
+  </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats-tau-rose.vercel.app/api?username=slayaglez&hide=contribs,prs&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 <br>
 
