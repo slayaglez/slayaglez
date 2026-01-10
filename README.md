@@ -20,6 +20,8 @@ I'm Sebastián Laya González, and I was born in Venezuela but grew up in **Tene
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+  
+
 <br>
 
 ### 🎮 About me 
@@ -50,22 +52,16 @@ My hobbies are **MMA, videogames and Rock'n'Roll**, more specifically, I've prac
 <hr>
 
 ## 💯 GitHub Stats
-<div style="display:flex;>
-  <div>
-  
-  [![Anurag's GitHub stats](https://github-readme-stats-tau-rose.vercel.app/api?username=slayaglez&hide=contribs,prs&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-    
+<div align="center">
+  <div style="display: inline-block; vertical-align: top;">
+    <img src="https://github-readme-stats-tau-rose.vercel.app/api?username=slayaglez&hide=contribs,prs&show_icons=true&theme=shadow_red&custom_title=Stats&text_bold=true&text_color=FFFFFF&bg_color=292929&border_radius=20" width="400" />
+    <br/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=slayaglez&theme=shadow_red&hide_border=false&text_color=FFFFFF&background=292929&border_radius=20" width="400" />
   </div>
-  <div>
-    
-  ![](https://github-readme-stats.vercel.app/api?username=slayaglez&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=slayaglez&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=slayaglez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-    
+  <div style="display: inline-block; vertical-align: top;">
+    <img src="https://github-readme-stats-tau-rose.vercel.app/api/top-langs/?username=slayaglez&theme=shadow_red&exclude_repo=3D-Taburete&text_bold=true&text_color=FFFFFF&bg_color=292929&border_radius=20" width="400" />
   </div>
-
 </div>
-
 
 <br>
 
