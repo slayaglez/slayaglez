@@ -54,12 +54,12 @@ My hobbies are **MMA, videogames and Rock'n'Roll**, more specifically, I've prac
 ## 💯 GitHub Stats
 <div align="center">
   <div style="display: inline-block; vertical-align: top;">
-    <img src="https://github-readme-stats-tau-rose.vercel.app/api?username=slayaglez&hide=contribs,prs&show_icons=true&theme=dark&custom_title=Stats&text_bold=true&text_color=FFFFFF&bg_color=292929&border_radius=20" width="400" />
+    <img src="https://github-readme-stats-tau-rose.vercel.app/api?username=slayaglez&hide=contribs,prs&show_icons=true&icon_color=F54927&theme=dark&custom_title=Stats&text_bold=true&text_color=FFFFFF&bg_color=292929&border_radius=20" width="400" />
     <br/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=slayaglez&theme=dark&hide_border=false&text_color=FFFFFF&background=292929&border_radius=20" width="400" />
+    <img src="https://streak-stats.vercel.app?user=slayaglez&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly&background=272727&fire=FF5F00&sideNums=FFFFFF&dates=4D4D4D" width="400" />    
   </div>
   <div style="display: inline-block; vertical-align: top;">
-    <img src="https://github-readme-stats-tau-rose.vercel.app/api/top-langs/?username=slayaglez&theme=dark&exclude_repo=3D-Taburete&text_bold=true&text_color=FFFFFF&bg_color=292929&border_radius=20" width="400" />
+    <img src="https://github-readme-stats-tau-rose.vercel.app/api/top-langs/?username=slayaglez&theme=dark&exclude_repo=3D-Taburete&text_bold=true&text_color=FFFFFF&bg_color=292929&layout=donut&border_radius=20" width="400" />
   </div>
 </div>
 
