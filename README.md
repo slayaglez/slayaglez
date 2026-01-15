@@ -69,10 +69,13 @@ My hobbies are **MMA, videogames and Rock'n'Roll**, more specifically, I've prac
 
 ## 🎯 What I'm looking for
 Right now I'm looking to expand my knowledge as much as possible with oportunities such as:
+- New contacts
 - Buisness proyects
 - Developer Junior
 - **Interships**
 
+> "As iron sharpens iron, so one man sharpens another."
+>> Proverbs 27:17
 <br>
 
 <hr>
