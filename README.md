@@ -81,8 +81,8 @@ Right now I'm looking to expand my knowledge as much as possible with oportuniti
 <hr>
 
 ## 💬 Contact
-#### You can contact me via email **sebastianlaya01@gmail.com**
-<a href="sebastianlaya01@gmail.com"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F022%2F484%2F508%2Fnon_2x%2Fgoogle-mail-gmail-icon-logo-symbol-free-png.png&f=1&nofb=1&ipt=07ebfb295ff7e74f80b9cf62b43a1cafb5c5be475bf3b8afee6cd38364b64507" style="height:2.5vw"></a>
+#### You can contact me via email **slayaglez@gmail.com**
+<a href="mailto:slayaglez@gmail.com"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F022%2F484%2F508%2Fnon_2x%2Fgoogle-mail-gmail-icon-logo-symbol-free-png.png&f=1&nofb=1&ipt=07ebfb295ff7e74f80b9cf62b43a1cafb5c5be475bf3b8afee6cd38364b64507" style="height:2.5vw"></a>
 
 #### Or via Linkedin down here!
 <a href="https://www.linkedin.com/in/sebastianlaya01/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2FlinkedIn%2FlinkedIn_PNG7.png&f=1&nofb=1&ipt=decd59ab5d2f0d625ba24f38ae7d75b1b799443b9a578bb443b82aa7bf5cc7c8" style="height:3vw"></a>
