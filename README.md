@@ -28,6 +28,9 @@ My hobbies are **MMA, videogames and Rock'n'Roll**, more specifically, I've prac
 ## 🚀 Agile methodologies
 <p align="center">
   <a>
+    🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover
+    <br>
+    <br>
     <img src="https://img.shields.io/badge/agile-green?style=for-the-badge"> <img src="https://img.shields.io/badge/scrum-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/kanban-008844?style=for-the-badge">
   </a>
 </p>
