@@ -4,42 +4,34 @@
 
 <hr>
 
-## 🖐🏼 Who am I?
-I'm Sebastián Laya González, and I was born in Venezuela but grew up in **Tenerife, Canary Islands**. Right now I find myself studying Multiplatform Application Development in **IES Puerto de la Cruz**, Tenerife and I'm looking up to finish my Higher Vocational Course, which involves lessons over technologies like **Java, HTML, Docker, PostgreSQL** and much more. In addition I'm also experimented with videogames creation with tools like Unity3D and Blender (and open to start learning C#).
-
-<br>
-
-### 🎮 About me 
+## 🖐🏼 Who I am?
 <details>
   <summary>See more</summary>
+  <br>
   
-My hobbies are **MMA, videogames and Rock'n'Roll**, more specifically, I've practiced Brazilian Jiu-Jitsu and Karate, I'm a big fan of *Fromsoftware* games and I love *Extremoduro* or *Marea*, which are spanish Rock bands. I also love gastronomy, since I've been a waiter for a couple of years and know a lot about high quality wines and meats from different parts of the Mediterranean.
-
-</details>
+I'm Sebastián Laya González, and I was born in Venezuela but grew up in **Tenerife, Canary Islands**. Right now I find myself studying Multiplatform Application Development in **IES Puerto de la Cruz**, Tenerife and I'm looking up to finish my Higher Vocational Course, which involves lessons over technologies like **Java, HTML, Docker, PostgreSQL** and much more.
 
 <br>
 
-### 🌐 Languages I know
-
-  ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-  
+My hobbies are **MMA, videogames and Rock'n'Roll**, more specifically, I've practiced Brazilian Jiu-Jitsu and Karate, I'm a big fan of *Fromsoftware* games and I love *Extremoduro* or *Marea*, which are spanish Rock bands. I also love gastronomy, since I've been a waiter for a couple of years and know a lot about high quality wines and meats from different parts of the Mediterranean.
 
 <br>
 
 > Tranquilo a la vez que resuelto, alegre a la par que consistente, es el hombre que en todo sigue la razón.
 > >  -Marco Aurelio
 
+</details>
+
 <br>
+<hr>
 
-
+## 🚀 Agile methodologies
+<p align="center">
+  <a>
+    <img src="https://img.shields.io/badge/agile-green?style=for-the-badge"> <img src="https://img.shields.io/badge/scrum-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/kanban-008844?style=for-the-badge">
+  </a>
+</p>
+<br>
 <hr>
 
 ## 👾 Programming habilities 
@@ -51,9 +43,7 @@ My hobbies are **MMA, videogames and Rock'n'Roll**, more specifically, I've prac
 </p>
 
 <p>I'm also experienced on Assembly and QtSpin!</p>
-
 <br>
-
 <hr>
 
 ## 💯 GitHub Stats
@@ -69,7 +59,6 @@ My hobbies are **MMA, videogames and Rock'n'Roll**, more specifically, I've prac
 </div>
 
 <br>
-
 <hr>
 
 ## 🎯 What I'm looking for
@@ -82,7 +71,6 @@ Right now I'm looking to expand my knowledge as much as possible with oportuniti
 > "As iron sharpens iron, so one man sharpens another."
 >> Proverbs 27:17
 <br>
-
 <hr>
 
 ## 💬 Contact
