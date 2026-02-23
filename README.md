@@ -37,6 +37,18 @@ My hobbies are **MMA, videogames and Rock'n'Roll**, more specifically, I've prac
 <br>
 <hr>
 
+
+## 💾 Featured Projects
+
+|||
+|---	|:----------------------------------------------------------------------------------------------------	|
+|<a href="https://github.com/slayaglez/TicTacThree"><img src="/img/tictacthree_thumb.png" style="height:20vh"></a>|**TicTacThree**<br><br>El clásico juego de 3 en raya pero con una mejora que lo hace mucho más divertido<br><br>![html](https://img.shields.io/badge/HTML-blue?style=for-the-badge) ![css](https://img.shields.io/badge/CSS-purple?style=for-the-badge) ![javascript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge) <br><br> [![github](https://img.shields.io/badge/See-more?style=for-the-badge&logo=github&color=242424)](https://github.com/slayaglez/TicTacThree)|
+|<a href="https://github.com/slayaglez/PRO-1-DAM-2025-2026"><img src="/img/pro_thumb.png" style="height:20vh"></a>|**Programación**<br><br>El repositorio destinado a registrar todos los ejercicios hechos en Java 17<br><br>![java](https://img.shields.io/badge/java-FF6600?style=for-the-badge) ![maven](https://img.shields.io/badge/maven-dd0000?style=for-the-badge)<br><br>[![github](https://img.shields.io/badge/See-more?style=for-the-badge&logo=github&color=242424)](https://github.com/slayaglez/PRO-1-DAM-2025-2026)|
+|<a href="https://github.com/slayaglez/Mecanografico"><img src="/img/meca_thumb.png" style="height:20vh"></a>|**Mecanográfico**<br><br>Un minijuego de mecanografía para la terminal hecho en Java 17<br><br>![java](https://img.shields.io/badge/java-FF6600?style=for-the-badge) ![maven](https://img.shields.io/badge/maven-dd0000?style=for-the-badge)<br><br>[![github](https://img.shields.io/badge/See-more?style=for-the-badge&logo=github&color=242424)](https://github.com/slayaglez/Mecanografico)|
+<br>
+<hr>
+
+
 ## 👾 Programming habilities 
 ### Here are some technologies where I'm experienced
 <p align="center">
@@ -48,6 +60,7 @@ My hobbies are **MMA, videogames and Rock'n'Roll**, more specifically, I've prac
 <p>I'm also experienced on Assembly and QtSpin!</p>
 <br>
 <hr>
+
 
 ## 💯 GitHub Stats
 <div align="center">
@@ -64,6 +77,7 @@ My hobbies are **MMA, videogames and Rock'n'Roll**, more specifically, I've prac
 <br>
 <hr>
 
+
 ## 🎯 What I'm looking for
 Right now I'm looking to expand my knowledge as much as possible with oportunities such as:
 - New contacts
@@ -76,15 +90,6 @@ Right now I'm looking to expand my knowledge as much as possible with oportuniti
 <br>
 <hr>
 
-## 💾 Featured Projects
-
-|||
-|---	|:----------------------------------------------------------------------------------------------------	|
-|<a href="https://github.com/slayaglez/TicTacThree"><img src="/img/tictacthree_thumb.png" style="height:20vh"></a>|**TicTacThree**<br><br>El clásico juego de 3 en raya pero con una mejora que lo hace mucho más divertido<br><br>![html](https://img.shields.io/badge/HTML-blue?style=for-the-badge) ![css](https://img.shields.io/badge/CSS-purple?style=for-the-badge) ![javascript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge) <br><br> [![github](https://img.shields.io/badge/See-more?style=for-the-badge&logo=github&color=242424)](https://github.com/slayaglez/TicTacThree)|
-|<a href="https://github.com/slayaglez/PRO-1-DAM-2025-2026"><img src="/img/pro_thumb.png" style="height:20vh"></a>|**Programación**<br><br>El repositorio destinado a registrar todos los ejercicios hechos en Java 17<br><br>![java](https://img.shields.io/badge/java-FF6600?style=for-the-badge) ![maven](https://img.shields.io/badge/maven-dd0000?style=for-the-badge)<br><br>[![github](https://img.shields.io/badge/See-more?style=for-the-badge&logo=github&color=242424)](https://github.com/slayaglez/PRO-1-DAM-2025-2026)|
-|<a href="https://github.com/slayaglez/Mecanografico"><img src="/img/meca_thumb.png" style="height:20vh"></a>|**Mecanográfico**<br><br>Un minijuego de mecanografía para la terminal hecho en Java 17<br><br>![java](https://img.shields.io/badge/java-FF6600?style=for-the-badge) ![maven](https://img.shields.io/badge/maven-dd0000?style=for-the-badge)<br><br>[![github](https://img.shields.io/badge/See-more?style=for-the-badge&logo=github&color=242424)](https://github.com/slayaglez/Mecanografico)|
-<br>
-<hr>
 
 ## 💬 Contact
 #### You can contact me via email
