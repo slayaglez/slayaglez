@@ -76,6 +76,15 @@ Right now I'm looking to expand my knowledge as much as possible with oportuniti
 <br>
 <hr>
 
+## Featured Projects
+
+|||
+|---	|:----------------------------------------------------------------------------------------------------	|
+|<img src="/img/tictacthree_thumb.png" style="height:20vh">|**TicTacThree**<br><br>El clásico juego de 3 en raya pero con una mejora que lo hace mucho más divertido<br><br>![html](https://img.shields.io/badge/HTML-blue?style=for-the-badge) ![css](https://img.shields.io/badge/CSS-purple?style=for-the-badge) ![javascript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge) <br><br> ![github](https://img.shields.io/badge/See-more?style=for-the-badge&logo=github&color=242424&link=https%3A%2F%2Fgithub.com%2Fslayaglez%2FTicTacThree)|
+|<img src="/img/pro_thumb.png" style="height:20vh">|**Programación**<br><br>El repositorio destinado a registrar todos los ejercicios hechos en Java 17<br><br>![java](https://img.shields.io/badge/java-FF6600?style=for-the-badge) ![maven](https://img.shields.io/badge/maven-dd0000?style=for-the-badge)<br><br>![github](https://img.shields.io/badge/See-more?style=for-the-badge&logo=github&color=242424&link=https%3A%2F%2Fgithub.com%2Fslayaglez%2FPRO-1-DAM-2025-2026)|
+|<img src="/img/meca_thumb.png" style="height:20vh">|**Mecanográfico**<br><br>Un minijuego de mecanografía para la terminal hecho en Java 17<br><br>![java](https://img.shields.io/badge/java-FF6600?style=for-the-badge) ![maven](https://img.shields.io/badge/maven-dd0000?style=for-the-badge)<br><br>![github](https://img.shields.io/badge/See-more?style=for-the-badge&logo=github&color=242424&link=https%3A%2F%2Fgithub.com%2Fslayaglez%2FMecanografico)|
+
+
 ## 💬 Contact
 #### You can contact me via email
 <a href="mailto:slayaglez@gmail.com"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F022%2F484%2F508%2Fnon_2x%2Fgoogle-mail-gmail-icon-logo-symbol-free-png.png&f=1&nofb=1&ipt=07ebfb295ff7e74f80b9cf62b43a1cafb5c5be475bf3b8afee6cd38364b64507" style="height:2.5vw"></a>
