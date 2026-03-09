@@ -91,6 +91,22 @@ Right now I'm looking to expand my knowledge as much as possible with oportuniti
 <br>
 <hr>
 
+## 🌍 Languages
+
+
+| 🇪🇸 **Spanish** | 🇬🇧 **English** | 🇩🇪 **German** | 🇯🇵 **Japanese** |
+| :---: | :---: | :---: | :---: |
+| Native | Advanced | Basic | Beginner |
+| - | Certifiable B2 | Certifiable A2 | Not certifiable |
+| - | by University of Cambridge | by Goethe Institut | - |
+
+<br>
+
+> "Cuantos más idiomas sabes, más humano eres"
+>> Tomáš Garrigue Masaryk
+
+<br>
+<hr>
 
 ## 💬 Contact
 #### You can contact me via email
