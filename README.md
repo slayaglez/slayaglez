@@ -1,6 +1,6 @@
 <img src="/img/github_header.png">
 
-<img src="https://img.shields.io/github/followers/slayaglez?style=flat&logoSize=2vh&labelColor=3B3B3B&color=CC0808"> <img src="https://img.shields.io/github/stars/slayaglez?style=flat&logoSize=2vh&labelColor=3B3B3B&color=A82B02"> ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=slayaglez.repoName) <img src="https://komarev.com/ghpvc/?username=slayaglez" alt="slayaglez" />
+<img src="https://img.shields.io/github/followers/slayaglez?style=flat&logoSize=2vh&labelColor=3B3B3B&color=CC0808"> <img src="https://img.shields.io/github/stars/slayaglez?style=flat&logoSize=2vh&labelColor=3B3B3B&color=CC0808">  <img src="https://komarev.com/ghpvc/?username=slayaglez&color=CC0808" alt="slayaglez" />
 
 <img src="https://img.shields.io/badge/CLICK%20FOR%20MY%20CV-ff0000?style=for-the-badge">
 
