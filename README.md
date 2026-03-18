@@ -6,7 +6,7 @@
 
 <hr>
 
-## 🖐🏼 Who I am?
+## 🖐🏼 Who I am
 <details>
   <summary>See more</summary>
   <br>
