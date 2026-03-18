@@ -15,7 +15,7 @@ I'm Sebastián Laya González, and I was born in Venezuela but grew up in **Tene
 
 <br>
 
-My hobbies are **MMA, videogames and Rock'n'Roll**, more specifically, I've practiced Brazilian Jiu-Jitsu and Karate, I'm a big fan of *Fromsoftware* games and I love *Extremoduro* or *Marea*, which are spanish Rock bands. I also love gastronomy, since I've been a waiter for a couple of years and know a lot about high quality wines and meats from different parts of the Mediterranean. Lastly I love making little games in different programming languages, but the language where I do the **real** programming is Java.
+My hobbies are **MMA, videogames and Rock'n'Roll**, more specifically, I've practiced Brazilian Jiu-Jitsu and Karate, I'm a big fan of *Fromsoftware* games and I love *Extremoduro* or *Marea*, which are spanish Rock bands. I also love gastronomy, since I've been a waiter for a couple of years and know a lot about high quality wines and meats from different parts of the Mediterranean. Lastly, I love making little games in different programming languages, but the language where I do the **real** programming is Java.
 
 <br>
 
